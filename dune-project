@@ -19,6 +19,7 @@ understood by ocamldoc.")
   dune
   (ocaml (>= 4.02.0))
   astring
+  camlp-streams
   result
   (ppx_expect :with-test)))
 
